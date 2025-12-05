@@ -12,7 +12,6 @@ This project demonstrates Excel-based reporting for insurance KPIs using **Power
   - claims.xlsx
   - expenses.xlsx
   - plan.xlsx
-  - 
 > Note: For this project, all files are **synthetic datasets** for demonstration purposes.
 
 ---
