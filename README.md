@@ -12,6 +12,13 @@ This project demonstrates Excel-based reporting for insurance KPIs using **Power
   - claims.xlsx
   - expenses.xlsx
   - plan.xlsx
+## Dashboard Preview
+
+Below is the main dashboard showing monthly and product KPIs, including Earned Premium, Total Claims, and Combined Ratio.
+
+![Dashboard Screenshot](dashboard.png)
+
+
 > Note: For this project, all files are **synthetic datasets** for demonstration purposes.
 
 ---
