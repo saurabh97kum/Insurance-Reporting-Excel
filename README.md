@@ -54,7 +54,6 @@ The project calculates the following KPIs:
    - Right-click → Properties → Check **Unblock** → OK.  
 3. Open the workbook in Excel and click **Enable Content** when prompted.  
 4. Use the **Refresh Dashboard** button on the Dashboard sheet to update all queries, pivot tables, and charts.
-5. 
 ---
 
 ## Dashboard
